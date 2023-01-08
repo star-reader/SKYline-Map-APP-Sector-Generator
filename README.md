@@ -4,9 +4,12 @@ generate APP sector for SKYline Online Map
 
 # use
 1、clone this repository
+
 2、copy FSS.ese for Euroscope to the forder
+
 3、run 
 ```sh
 node index.js
 ```
+
 4、it will make your file in 1 second!
